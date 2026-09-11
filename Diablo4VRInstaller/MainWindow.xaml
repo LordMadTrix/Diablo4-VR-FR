@@ -1,4 +1,4 @@
-<Window x:Class="Diablo4VRInstaller.MainWindow"
+<Window Icon="app.ico" x:Class="Diablo4VRInstaller.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="DIABLO IV VR - Installateur &amp; Optimiseur Diorama 3D (Édition Française) • LordMadTrix"
